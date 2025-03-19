@@ -24,7 +24,12 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)  
 
 ### 🛠 Tools & Utilities  
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+# 📊 GitHub Stats:
+![]([https://github-readme-stats.vercel.app/api?username=Arav menon&theme=dark&hide_border=false&include_all_commits=false&count_private=false](https://github-readme-stats.vercel.app/api?username=Arav-menon&theme=dark&hide_border=false&include_all_commits=false&count_private=false))<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Arav-menon&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Arav-menon&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
