@@ -3,7 +3,7 @@
 
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/7C4PdS7x ) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/aravmenon01/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/Arav_menon?t=1xUBARAlsK6McS65-rhkfQ&s=09) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aravmenon.ak@gmail.com) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/7C4PdS7x ) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/aravmenon01/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/Arav_menon?t=1xUBARAlsK6McS65-rhkfQ&s=09) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aravmenon.ak@gmail.com)   
 
 # 💻 Tech Stack:
 
